@@ -10,5 +10,5 @@ package fr.insa.monprojet.testcreationgitfdb;
  */
 public class Classe_A {
     int x;
-    
+    int y;
 }
