@@ -10,4 +10,5 @@ package fr.insa.monprojet.projet_groupe_7;
  */
 public class Laure_Barre {
     int x;
+    double y;
 }
