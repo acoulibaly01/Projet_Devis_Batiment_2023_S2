@@ -9,5 +9,5 @@ package fr.insa.monprojet.test_github_g8;
  * @author Amadou Coulibaly
  */
 public class Noeud {
-    
+   int x; 
 }
