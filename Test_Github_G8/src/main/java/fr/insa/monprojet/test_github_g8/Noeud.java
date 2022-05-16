@@ -10,4 +10,5 @@ package fr.insa.monprojet.test_github_g8;
  */
 public class Noeud {
    int x; 
+   double y;
 }
