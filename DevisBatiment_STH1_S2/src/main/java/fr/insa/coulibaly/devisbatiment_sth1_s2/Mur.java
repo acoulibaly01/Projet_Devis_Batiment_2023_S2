@@ -34,7 +34,7 @@ public class Mur {
     
     double surface()
     {
-        System.out.println("\nEntrer la Hauteur du mur (hauteur sous-plafond ------+++");
+        System.out.println("\nEntrer la Hauteur du mur (hauteur sous-plafond ***------+++");
         double hsp=Lire.d();
         return(this.longueur()*hsp);
     }
