@@ -7,7 +7,7 @@ package fr.insa.coulibaly.devisbatiment_sth1_s2;
 /**
  *
  * @author Amadou Coulibaly
- */
+ **/
 public class Mur {
     int idMur;
     Coin debut, fin;
